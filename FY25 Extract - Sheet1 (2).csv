@@ -1,0 +1,15 @@
+appropriation_category,appropriation code,appropriation activity,branch,fiscal_year_start,fiscal_year_end,budget_activity_number,budget_activity_title,pem,budget_title,program_base_congressional,program_base_dod,reprogramming_amount,revised_program_total,explanation,file
+Example row: RDTE,,,Air Force,2024,2025,4,Advanced Component Development and Prototypes,0604858F,Tech Transition Program,"239,026","239,026","30,000","269,026",-,https://comptroller.defense.gov/Portals/45/Documents/execution/reprogramming/fy2025/prior1415s/25-01_PA_October_2024.pdf
+Example row:PROCUREMENT,,Shipbuilding and Conversion,Navy ,2024,2028,5,"Auxiliaries, Craft, and Prior-Year Program Costs ",,TAO Fleet Oiler,"815,420","815,420","32,364","847,784","Funds are required to fully fund the gross weapon system cost of T-AO 214 in FY 2024. The recently negotiated eight ship block buy contract resulted in a cost of $858.42 million, resulting in a $43.0 million shortfall. Of the $43.0 million, $36.4 million is required to restore funds temporarily realigned from change orders, electronics, and hull, mechanical, and electrical cost categories to support a higher basic construction award with the shipbuilder. In addition, $6.6 million is required for cost increases for electronics government furnished equipment.",https://comptroller.defense.gov/Portals/45/Documents/execution/reprogramming/fy2025/prior1415s/25-03_PA_T-AO_Fleet_Oiler_signed_20250108_Implemented.pdf
+Example row: Operation and Maintenance,,,Air Force,2022,2022,1,Operating Forces,,,"44,744,117","44,985,117","134,980","45,120,097","$+81.000 million to  fund increased costs for utilities ( electric, water, & gas), Utility Privatization, 
+Energy Savings Performance Contracts (ESPC), and Utility Energy Service Contracts (UESC) at Air 
+Force installations. Increases are due to higher costs as  a result of escalating rices that are 
+outpacing budgeted pricing factors due to  global supply/demand factors. 
+• $+53.980 million to  fund  Base Operating Support associated with mission critical functions contracts 
+supporting Air Force installations worldwide.  This support ensures capability for  all Air Force core 
+missions: air superiority, intelligence, surveillance, and reconnaissance (ISR), rapid global mobility, 
+global strike, and command and control at Air Force installations.  Funding will support must fund 
+activities to  include operational command and control, base communications, dining facility, grounds 
+maintenance, custodial cleaning, refuse, and consumable supp_Ix  equipment items to maintain 
+operations world-wide.",https://comptroller.defense.gov/Portals/45/Documents/execution/reprogramming/fy2022/prior1415s/22-15_PA_Air_Force_September_2022.pdf
+Example row: Operation and Maintenance,,,Army,2025,2025,4,Administration and Servicewide Activities,,Environmental Restoration,-,-,"54,529","54,529",-,https://comptroller.defense.gov/Portals/45/Documents/execution/reprogramming/fy2025/ir1415s/25-01_IR_ER_1_signed_20241025.pdf
